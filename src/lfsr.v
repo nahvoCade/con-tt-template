@@ -1,6 +1,6 @@
 module lfsr (
 	clk_i,
-	reset_i,
+	reset_i, 
 	lfsr_state_o
 );
 	reg _sv2v_0;
